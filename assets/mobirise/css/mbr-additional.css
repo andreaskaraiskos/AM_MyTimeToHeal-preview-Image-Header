@@ -1942,13 +1942,40 @@ section.lazy-placeholder:after {
 .cid-s1qyq12C8Y A {
   color: #ffffff;
 }
-.cid-s1kZaqlT1Z {
+.cid-sbHS29HEnX {
   padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/cyprus-200048-1921-1920x1280.jpeg");
+  padding-bottom: 0px;
+  background-color: #ffffff;
 }
-.cid-s1kZaqlT1Z H1 {
-  color: #3b1d47;
+.cid-sbHS29HEnX .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-sbHS29HEnX .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sbHS29HEnX .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sbHS29HEnX .mbr-text {
+    text-align: center;
+  }
+}
+.cid-sbHS29HEnX H3 {
+  color: #2b0d38;
+  text-align: left;
+}
+.cid-sbHS29HEnX .mbr-text,
+.cid-sbHS29HEnX .mbr-section-btn {
+  color: #2b0d38;
+  text-align: left;
 }
 .cid-sbq6ECqCVi {
   padding-top: 45px;
@@ -1958,38 +1985,6 @@ section.lazy-placeholder:after {
 .cid-sbq6ECqCVi H1 {
   color: #2b0d38;
   text-align: center;
-}
-.cid-sbkFHCtm6P {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-sbkFHCtm6P .testimonial-text {
-  font-style: italic;
-  font-weight: 300;
-  color: #767676;
-}
-.cid-sbkFHCtm6P .mbr-author-name {
-  font-weight: bold;
-  color: #767676;
-}
-.cid-sbkFHCtm6P .media-container-row {
-  word-wrap: break-word;
-  word-break: break-word;
-}
-@media (max-width: 991px) {
-  .cid-sbkFHCtm6P .mbr-figure,
-  .cid-sbkFHCtm6P img {
-    max-height: 300px;
-    width: auto;
-    margin: auto;
-  }
-  .cid-sbkFHCtm6P .media-content {
-    padding-top: 1.5rem !important;
-  }
-}
-.cid-sbkFHCtm6P .mbr-author-desc {
-  color: #767676;
 }
 .cid-rqs8asDiIk {
   padding-top: 60px;
@@ -2646,6 +2641,15 @@ section.lazy-placeholder:after {
 }
 .cid-s1l1sqiv3v H1 {
   color: #ffffff;
+}
+.cid-sbIbt6kIVD {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-image: url("../../../assets/images/damask-repeat-small-3-1920x1080.png");
+}
+.cid-sbIbt6kIVD H1 {
+  color: #2b0d38;
+  text-align: center;
 }
 .cid-rkqiJwhOxg {
   padding-top: 90px;
@@ -3464,7 +3468,7 @@ section.lazy-placeholder:after {
 .cid-s1kXVEz00Y {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/doors-1767563-1920-1920x1024.jpg");
+  background-image: url("../../../assets/images/doors-1767563-1920-modified-1-1920x1024.png");
 }
 .cid-s1kXVEz00Y H1 {
   color: #ffffff;
@@ -4742,7 +4746,7 @@ section.lazy-placeholder:after {
 .cid-sbq5PzkpIn {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/dandelion-2817950-1920-1920x866.jpeg");
+  background-image: url("../../../assets/images/dandelion-2817950-1920-modified-purple-1920x866.png");
 }
 .cid-sbq5PzkpIn H1 {
   color: #ffffff;
